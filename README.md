@@ -1,18 +1,24 @@
-# Metamask Login Page
+# Metamask-Authantication
 
-In this project, we have created a simple login page using metamask signing function using jwt authentication. This code implements the frontend in vanilla JS and backend in Express JS. 
+## Quickstart
 
-To run the code, you need to run the following commands. 
-
-```shell
+```bash
 npm install
 ```
 
 Then start the backend server by using the following command 
 
-```shell
+```bash
 node index.js
 ```
 
 and go to http://localhost:3000, connect the Metamask and test the application.
-# Metamask-Authantication
+
+## How to use
+
+1)Connect to the MetaMask using connect button
+
+<img width="786" alt="image" src="https://github.com/CagatayAkkas/Metamask-Authantication/assets/108520279/93ae4fa2-d1e3-483a-b934-5d43dddeb5bd">
+
+2)Open browser console with: right click -> inspect -> console
+
