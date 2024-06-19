@@ -3,6 +3,7 @@
 ## Quickstart
 
 ```bash
+cd Metamask-Authantication
 npm install
 ```
 
