@@ -23,3 +23,10 @@ and go to http://localhost:3000, connect the Metamask and test the application.
 
 2)Open browser console with: right click -> inspect -> console
 
+<img width="1302" alt="image" src="https://github.com/CagatayAkkas/Metamask-Authantication/assets/108520279/d6cdf7d6-71ba-4711-9633-c6634d584e36">
+
+3)Use sign message button to sign:
+
+<img width="538" alt="image" src="https://github.com/CagatayAkkas/Metamask-Authantication/assets/108520279/88c2e3eb-dd0c-4ac2-b31e-71ca47bd8e4b">
+
+
