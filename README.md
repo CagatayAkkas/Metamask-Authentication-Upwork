@@ -1,9 +1,9 @@
-# Metamask-Authantication
+# Metamask-Authentication
 
 ## Quickstart
 
 ```bash
-cd Metamask-Authantication
+cd Metamask-Authentication
 npm install
 ```
 
